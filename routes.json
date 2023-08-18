@@ -1,0 +1,27 @@
+{
+  "/*db*": "/600/$1",
+
+  "/*/users*": "/640/users$1",
+  "/users*": "/640/users$1",
+
+  "/*/addresses*": "/640/addresses$1",
+  "/addresses*": "/640/addresses$1",
+
+  "/*/allergens*": "/644/allergens$1",
+  "/allergens*": "/644/allergens$1",
+
+  "/*/ingredients*": "/644/ingredients$1",
+  "/ingredients*": "/644/ingredients$1",
+
+  "/*/meals*": "/644/meals$1",
+  "/meals*": "/644/meals$1",
+
+  "/*/menu*": "/644/menu$1",
+  "/menu*": "/644/menu$1",
+
+  "/*/orders*": "/640/orders$1",
+  "/orders*": "/640/orders$1",
+
+  "/*/notifications*": "/644/notifications$1",
+  "/notifications*": "/644/notifications$1"
+}
